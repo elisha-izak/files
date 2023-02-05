@@ -1,0 +1,33 @@
+.header{
+    background-color: rgb(91, 68, 68);
+    height: 7vh;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
+.bsd{
+    position: fixed;
+    left: 97.5%;
+    top: 0;
+    color: darkgoldenrod;
+}
+
+
+.ELIdrive{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+    color: var(--primary);
+    margin: 3px;
+}
+
+.companyName{
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.companyName span{
+    color: var(--primary);
+    font-weight: bolder;
+}

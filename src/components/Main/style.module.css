@@ -1,0 +1,10 @@
+.main{
+    background-color: var(--primary);
+    height: 93vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+

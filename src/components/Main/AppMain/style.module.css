@@ -1,0 +1,32 @@
+
+
+
+.appmain{
+    height: 7%;
+    width: 80%;
+    background-color:var(--secondary);
+    direction: ltr;
+    display: flex;
+    position: relative;
+}
+
+
+.taskbar{
+    position: absolute;
+    right:0;
+}
+
+.creatFolder{
+    margin: 5px;
+    width: 34px;
+    border-radius: 50px;
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    border: 1px solid seashell;
+    background-color: lavender;
+}
+
+.iconFolder{
+    font-size: 30px;
+}

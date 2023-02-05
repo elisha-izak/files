@@ -1,0 +1,27 @@
+.folders{
+    height: 40%;
+    width: 80%;
+    background-color: var(--secondary);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.font{
+    color: var(--primary);
+    font-size: xx-large;
+}
+
+
+.list{
+    height: 80%;
+    width: 80%;
+    margin: 5px;
+    background-color: var(--primary);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,7 @@
+.btn{
+    background-color: var(--primary);
+
+}
+.btn:active{
+    background-color: var(--secondary);
+}

@@ -1,0 +1,16 @@
+
+
+.file{
+    margin: 5px;
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    border: 1px solid seashell;
+    background-color: lavender;
+}
+
+
+
+.icon{
+    font-size: 50px;
+}

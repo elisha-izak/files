@@ -1,0 +1,26 @@
+*{
+  direction: rtl;     /*משנה כיוון */
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;            /*שומר על הילדים בתוך אבא שלהם*/
+
+}
+
+ul{
+  list-style: none;              /*מוריד את הנקודה*/
+}
+
+a{
+  text-decoration: none;      /* מוריד את הקו*/
+  color: black;             /*צבע אחר*/
+}
+
+h1, h2{
+  text-transform: capitalize;     /*מתחיל באות גדולה*/
+}
+
+
+:root{                              /*שמירת משתנים*/
+  --primary: #394769;
+  --secondary: rgb(85, 91, 68);
+}
